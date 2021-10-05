@@ -1,7 +1,7 @@
 # country-state-city
  Dynamic Country State City Laravel 8 Using Ajax, & All Country State City Seeder 
  
-#How To Deployee Project In Localhost
+# How To Deployee Project In Localhost
 
 Clone/Download Project and paste in xampp/htdocs
 
